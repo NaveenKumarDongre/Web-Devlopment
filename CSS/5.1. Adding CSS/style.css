@@ -1,0 +1,15 @@
+h1 {
+  color: green;
+}
+
+/* class selector */
+.p-text {
+  background-color: blueviolet;
+  color: black;
+}
+
+/* Id selector */
+#green-p {
+  background-color: green;
+  color: white;
+}
